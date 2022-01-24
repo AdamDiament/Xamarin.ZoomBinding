@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Xamarin5.Android.ZoomSDK</id>
+    <version>0.1</version>
+    <title>Binding for Android Zoom Meeting SDK v5.7.6.1918</title>
+    <authors>Adam Diament</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>Binding for Android Zoom Meeting SDK v5.7.6.1918</description>
+    <releaseNotes>Draft release</releaseNotes>
+    <copyright>.</copyright>
+    <tags>Zoom Android Xamarin</tags>
+  </metadata>
+</package>
