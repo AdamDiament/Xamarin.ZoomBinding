@@ -1,17 +1,17 @@
-﻿using System;
-namespace Com.Zipow.Videobox.Conference.Viewgroup
-{
-    public partial class ZmAbstractShareControlView
-    {
-        public void Left()
-        {
-            InvokeLeft();
-        }
+﻿//using System;
+//namespace Com.Zipow.Videobox.Conference.Viewgroup
+//{
+//    public partial class ZmAbstractShareControlView
+//    {
+//        public void Left()
+//        {
+//            InvokeLeft();
+//        }
 
-        public void Right()
-        {
-            InvokeRight();
-        }
-    }
-}
+//        public void Right()
+//        {
+//            InvokeRight();
+//        }
+//    }
+//}
 
